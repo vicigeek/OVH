@@ -1,4 +1,4 @@
-# 🔐 OVHcloud Dedicated Server – Root Password Reset via Rescue Mode
+# 🔐 OVHcloud VPS  – Root Password Reset via Rescue Mode
 
 This guide explains how to safely reset the **root password** of your dedicated server using **Rescue Mode** in OVHcloud.
 
